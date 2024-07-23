@@ -9,7 +9,6 @@ Welcome to **CodeJustic** - your go-to platform for hiring lawyers with ease and
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About CodeJustic
 
